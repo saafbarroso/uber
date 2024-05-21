@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "567820093352",
+    "project_id": "appuber-134d7",
+    "storage_bucket": "appuber-134d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567820093352:android:61dfa4144a82b1c5cfbf9d",
+        "android_client_info": {
+          "package_name": "com.mycompany.appconductor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2NWXMfoQAWhFqrPaJZoyaPx4B_QlhBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567820093352:android:61c892ec30565fd1cfbf9d",
+        "android_client_info": {
+          "package_name": "com.mycompany.apppasajero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2NWXMfoQAWhFqrPaJZoyaPx4B_QlhBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567820093352:android:be32e9be2f39e96dcfbf9d",
+        "android_client_info": {
+          "package_name": "com.mycompany.appuber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2NWXMfoQAWhFqrPaJZoyaPx4B_QlhBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
